@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mxocq.github.io/VEy/sitemap.VEy.gz
